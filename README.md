@@ -34,8 +34,8 @@ This analysis highlights how leveraging data can guide strategies for growth and
 4. Use the findings to inform your marketing and sales strategies.
 
 ## Contact:
-For further discussion or collaboration, feel free to connect with us!
-
+For further discussion or collaboration, feel free to connect with uss
+## Live link:https://app.powerbi.com/view?r=eyJrIjoiYWMxYjVmYzEtMDUxZi00MTYyLThkMDktOWU0NTMwYzZmNGRhIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
 ## Tags:
 #DataAnalytics #PowerBI #BusinessInsights #ChocolateSales
 
